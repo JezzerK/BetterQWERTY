@@ -79,5 +79,5 @@ BetterQWERTY (P↔; and Caps↔Dele)
 
 
 
-##**AND THAT'S IT!!**
+## **AND THAT'S IT!!**
 Now "**P**" and "**;**" as well as "**caps lock**" and "**backspace**" should be swapped, making your typing a lot more efficient 
