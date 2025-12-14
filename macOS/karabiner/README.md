@@ -40,13 +40,32 @@ Karabiner-Elements is a tool that works on a low level on macOS and lets you swa
 
 ---
 
-## Step 2: Install the BetterQWERTY rules
+## Step 2: Get the BetterQWERTY rule file
 
-Copy the BetterQWERTY rule file into Karabiner’s configuration directory:
+You must install the BetterQWERTY rule file manually — Karabiner does not download rules automatically.
 
+Choose **one** of the following options.
+
+### Option A: Download the JSON file directly (recommended for most users)
+
+1. Download `betterqwerty.json` from this repository:
+   - Navigate to `macOS/karabiner/betterqwerty.json`
+   - Click **Raw**
+   - Save the file
+
+2. Copy it into Karabiner’s rules directory:
+(open terminal and copy/paste this in):
 ```bash
 mkdir -p ~/.config/karabiner/assets/complex_modifications
-cp macOS/karabiner/betterqwerty.json ~/.config/karabiner/assets/complex_modifications
+cp ~/Downloads/betterqwerty.json ~/.config/karabiner/assets/complex_modifications/
+```
+
+### Option B (for nerds): Clone it
+```bash
+git clone https://github.com/JezzerK/BetterQWERTY.git
+cd BetterQWERTY
+mkdir -p ~/.config/karabiner/assets/complex_modifications
+cp macOS/karabiner/betterqwerty.json ~/.config/karabiner/assets/complex_modifications/
 ```
 
 ## Step 3: Enable BetterQWERTY
@@ -60,5 +79,5 @@ BetterQWERTY (P↔; and Caps↔Dele)
 
 
 
-**AND THAT'S IT!!**
+##**AND THAT'S IT!!**
 Now "**P**" and "**;**" as well as "**caps lock**" and "**backspace**" should be swapped, making your typing a lot more efficient 
