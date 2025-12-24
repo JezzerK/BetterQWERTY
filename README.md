@@ -15,4 +15,6 @@ The karabiner version swaps "**P**" and "**;**" AS WELL AS "**caps lock**" and "
 
 Both versions will improve your overall typing speed. For indivivual instructions, see either in the macOS file. 
 
+If you're on windows, go to windows/autohotkey and follow the readme there for instructions.
+
 [^1]: OBVIOUSLY if you're coding in Java then this may not apply. But, NEWSFLASH, the majority of the FREAKING WORLD POPULATION that has TOUCHED A KEYBOARD are NOT Java developers. 
