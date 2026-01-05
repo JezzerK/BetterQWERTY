@@ -17,12 +17,12 @@ Karabiner-Elements is a tool that works on a low level on macOS and lets you swa
    **All of these are required**:
 
    - **System Extension**  
-     - System Settings → Privacy & Security  
+     - System Settings -> Privacy & Security  
      - Click **Allow** when prompted  
      - Restart if macOS asks you to
 
    - **Accessibility**  
-     - System Settings → Privacy & Security → Accessibility  
+     - System Settings -> Privacy & Security -> Accessibility  
      - Enable:
        - Karabiner-Elements
        - Karabiner-Grabber
@@ -33,7 +33,7 @@ Karabiner-Elements is a tool that works on a low level on macOS and lets you swa
        - Karabiner-Elements
 
 4. Reopen **Karabiner-Elements** and make sure:
-   - A profile (usually **Default profile**) is selected
+   - A profile (usually Default profil*) is selected
    - Your keyboard device is enabled under **Devices**
 
 > If these steps are not completed, Karabiner rules may appear enabled but will not affect typing.
