@@ -28,7 +28,7 @@ Karabiner-Elements is a tool that works on a low level on macOS and lets you swa
        - Karabiner-Grabber
 
    - **Input Monitoring**  
-     - System Settings → Privacy & Security → Input Monitoring  
+     - System Settings -> Privacy & Security -> Input Monitoring  
      - Enable:
        - Karabiner-Elements
 
@@ -75,7 +75,7 @@ cp macOS/karabiner/betterqwerty.json ~/.config/karabiner/assets/complex_modifica
 3. Click Add rule
 
 4. Enable:
-BetterQWERTY (P↔; and Caps↔Dele)
+BetterQWERTY (P↔; and Caps↔Delete)
 
 
 
