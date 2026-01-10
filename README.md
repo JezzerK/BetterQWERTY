@@ -4,7 +4,7 @@
 Swaps the semicolon (;) key and the P key in the QWERTY keyboard.
 
 ## Why?
-I HATE the STUPID semicolon key in QWERTY!!! It doesn't make any sense for it to be RIGHT OVER your PINKY when you NEVER USE it (or at least use it A LOT less than the LETTER P)[^1]
+I HATE the STUPID semicolon key in QWERTY! It doesn't make any sense for it to be RIGHT OVER your PINKY when you NEVER USE it (or at least use it A LOT less than the LETTER P)[^1]
 
 ## How do I install it? 
 If you're on Mac, you have two options: karabiner or the .keylayout file
